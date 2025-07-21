@@ -22,37 +22,46 @@ print("-------------------------")
 
 name = input("Enter your name: ")
 name = name.capitalize()
-print(name)
+print("This is Capitalize: ", name)
 
 print("-------------------------")
 
 name = input("Enter your name: ")
 name = name.upper()
 
-print(name)
+print("This is UPPER: ", name)
 
 print("-------------------------")
 
 name = input("Enter your name: ")
 name = name.lower()
 
-print(name)
+print("This is Lower: ", name)
 
 print("-------------------------")
 
 name = input("Enter your name: ")
 result = name.isdigit()
 
-print(result)
+print("This is isdigit: ", result)
 
 print("-------------------------")
 
 name = input("Enter your name: ")
 result = name.isalpha()
 
-print(result)
+print("This is isaplha: ", result)
 
 print("-------------------------")
 
+phone_number = input("Enter your phone number #: ")
 
+result =phone_number.count("-")
+print("This is count method: ", result)
 
+print("-------------------------")
+
+phone_number2= input("Enter your phone number: ")
+phone_number2 = phone_number2.replace("-", "")
+
+print("This is replace method; ", phone_number2)
