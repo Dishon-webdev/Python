@@ -1,0 +1,18 @@
+Index: while_loop.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># while loop = execute some code WHILE some condition remain true\r\n\r\nname = input(f\"Enter your name: \")\r\n\r\nwhile name == \"\":\r\n    print(\"you did not enter your name\")\r\n    name = input(f\"Enter your name: \")\r\nprint(f\"Hello {name}\")\r\n\r\nprint(\"------------------------------\")\r\n\r\nage = int(input(\"Enter your age: \"))\r\n\r\nwhile age < 0:\r\n    print(\"Age can't be negative\")\r\n    age = int(input(\"Enter your age: \"))\r\n\r\nprint(f\"Your are {age} years old\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/while_loop.py b/while_loop.py
+--- a/while_loop.py	(revision 136aae5d3f0915d3dfb387530ac27c8551d2ccf5)
++++ b/while_loop.py	(date 1753242309883)
+@@ -15,4 +15,5 @@
+     print("Age can't be negative")
+     age = int(input("Enter your age: "))
+ 
+-print(f"Your are {age} years old")
+\ No newline at end of file
++print(f"Your are {age} years old")
++
