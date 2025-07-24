@@ -9,7 +9,7 @@ print("----------------------------")
 my_time = int(input("Enter the time in second: "))
 for x in range(0, my_time):
     print(x)
-    time.sleep(2)       #Without time.sleep(1), your loop would run super fast — all numbers would print instantly
+    time.sleep(1)       #Without time.sleep(1), your loop would run super fast — all numbers would print instantly
 print("Time's up!")
 
 print("----------------------------")

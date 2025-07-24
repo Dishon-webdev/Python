@@ -28,3 +28,4 @@ print(f"Balance after {time} years/s: ${total:.2f}")
 #t = time in years (time)
 
 # A = P * (1 + r / 100) power of time(pow)
+

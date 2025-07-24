@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1cb101a-bac1-4c57-91c1-80a4c9181c72" name="Changes" comment="updated with string indexing, format specifiers, and while loop" />
+    <list default="true" id="e1cb101a-bac1-4c57-91c1-80a4c9181c72" name="Changes" comment="updated with string indexing, format specifiers, and while loop">
+      <change afterPath="$PROJECT_DIR$/lists_sets_and_tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compound_interest_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/compound_interest_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countdown_timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/countdown_timer.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +54,14 @@
     "Python.Madlibs_game.executor": "Run",
     "Python.arithmetic and math.executor": "Run",
     "Python.calculater.executor": "Run",
+    "Python.compound_interest_calculator.executor": "Run",
     "Python.conditional_expression.executor": "Run",
+    "Python.countdown_timer.executor": "Run",
     "Python.format_specifiers.executor": "Run",
     "Python.if_statement.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.math.executor": "Run",
+    "Python.nested_loop.executor": "Run",
     "Python.string_indexing.executor": "Run",
     "Python.string_methods.executor": "Run",
     "Python.temperature.executor": "Run",
@@ -108,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753182340103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated with string indexing, format specifiers, and while loop">
+      <option name="closed" value="true" />
+      <created>1753242988870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753242988870</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
