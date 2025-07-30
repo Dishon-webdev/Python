@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/number_guessing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice_roller_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cosession_stand_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/cosession_stand_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,9 @@
     &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -46,15 +54,21 @@
     "Python.2D_collection.executor": "Run",
     "Python.calculater.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
+    "Python.cosession_stand_program.executor": "Run",
     "Python.countdown_timer.executor": "Run",
+    "Python.default_arguments.executor": "Run",
+    "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
     "Python.for_loop.executor": "Run",
+    "Python.function_return.executor": "Run",
+    "Python.functions.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.lists_sets_and_tuples.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.num_pad.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
     "Python.quiz_game.executor": "Run",
+    "Python.random_numbers.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.shopping_card_program.executor": "Run",
@@ -124,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753438723845</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated">
+      <option name="closed" value="true" />
+      <created>1753885631366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753885631366</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
