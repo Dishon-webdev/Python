@@ -1,0 +1,84 @@
+Index: dictionary.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># dictionary = a collection of {key:value} pairs\r\n#              ordered and changeable. No duplicates\r\n\r\ncapitals = {\"USA\": \"Washington D.C\",\r\n            \"India\": \"New Delhi\",\r\n            \"Sri Lanka\": \"Colombo\",\r\n            \"China\": \"Beiging\",\r\n            \"Russia\": \"Moscow\"}\r\n\r\n#print(dir(capitals))\r\n#print(help(capitals))\r\n\r\nprint(capitals.get(\"India\"))\r\nprint(capitals.get(\"Sri Lanka\"))\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/dictionary.py b/dictionary.py
+--- a/dictionary.py	(revision 4e1e1ba0ad7d56867a3cad1f880791749ae49792)
++++ b/dictionary.py	(date 1753803224693)
+@@ -12,3 +12,61 @@
+ 
+ print(capitals.get("India"))
+ print(capitals.get("Sri Lanka"))
++
++print("---------------------------")
++
++if capitals.get("Japan"):
++    print("That capital exists")
++else:
++    print("That capital doesn't exists")
++
++print("--------------------------")
++
++capitals.update({"Germany": "Berlin"})
++capitals.update({"USA": "Detroit"})         #Can update existing also
++print(capitals)
++
++print("--------------------------")
++
++capitals.pop("China")
++
++print(capitals)
++print("--------------------------")
++
++capitals.popitem()              #Removes the last / latest key & value
++print(capitals)
++
++print("--------------------------")
++
++keys = capitals.keys()           #Shows only the key values
++print(keys)
++
++print("--------------------------")
++
++for key in capitals.keys():
++    print(key)
++
++print("--------------------------")
++
++values = capitals.values()
++print(values)
++
++for value in capitals.values():
++    print(value)
++
++print("--------------------------")
++
++items = capitals.items()
++
++print(items)
++print("--------------")
++for key, value in capitals.items():
++    print(f"{key}: {value}")
++print("--------------------------")
++print("--------------------------")
++
++capitals.clear()                #Clear all the values & keys
++print(capitals)
++
++print("--------------------------")
++
+Index: cosession_stand_program.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/cosession_stand_program.py b/cosession_stand_program.py
+new file mode 100644
+--- /dev/null	(date 1753803523824)
++++ b/cosession_stand_program.py	(date 1753803523824)
+@@ -0,0 +1,2 @@
++# Concession stand program
++
