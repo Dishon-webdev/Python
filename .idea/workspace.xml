@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/2D_collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_pad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_guessing_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,
-    &quot;accountId&quot;: &quot;62255344-7e5d-4476-a1bc-27782eba52d8&quot;
+    &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -46,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2D_collection.executor": "Run",
+    "Python.calculater.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
     "Python.countdown_timer.executor": "Run",
     "Python.dictionary.executor": "Run",
@@ -54,7 +53,9 @@
     "Python.lists_sets_and_tuples.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.num_pad.executor": "Run",
+    "Python.number_guessing_game.executor": "Run",
     "Python.quiz_game.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.shopping_card_program.executor": "Run",
     "Python.test.executor": "Run",
