@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/args_&amp;_kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keywords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/membership_operators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +59,12 @@
     "Python.for_loop.executor": "Run",
     "Python.function_return.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.iterables.executor": "Run",
     "Python.keywords.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.lists_sets_and_tuples.executor": "Run",
+    "Python.membership_operators.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.num_pad.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
