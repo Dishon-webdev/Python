@@ -1,7 +1,6 @@
 # List comprehension = A concise way to create lists in python
 #                      Compact and easier to read than traditional loops
 #                      [expression for value in iterable if condition]
-from iterables import fruits
 
 doubles = []
 
@@ -29,3 +28,11 @@ fruits = ["apple", "orange", "banana", "coconut"]
 fruits = [fruit.upper() for fruit in fruits]
 # fruits = [fruit.upper() for fruit in ["apple", "orange", "banana", "coconut"] ]
 print(fruits)
+
+print("---------------------------")
+
+grades = [85, 42, 79, 90, 56, 61, 30]
+
+passing_grades = [grade for grade in grades if grade >= 60]
+
+print(passing_grades)
