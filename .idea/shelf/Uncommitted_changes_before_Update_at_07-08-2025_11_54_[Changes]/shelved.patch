@@ -1,0 +1,263 @@
+Index: list_comprehension.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># List comprehension = A concise way to create lists in python\r\n#                      Compact and easier to read than traditional loops\r\n#                      [expression for value in iterable if condition]\r\nfrom iterables import fruits\r\n\r\ndoubles = []\r\n\r\nfor x in range(1, 11):\r\n    doubles.append(x * 2)\r\n\r\nprint(doubles)\r\n\r\nprint(\"--------------------\")\r\n\r\ndoubles = [x * 2 for x in range(1, 11)]\r\ntriples = [y * 3 for y in range(1, 11)]\r\nsquare = [z * z for z in range(1, 11)]\r\n\r\nprint(doubles)\r\nprint()\r\nprint(triples)\r\nprint()\r\nprint(square)\r\n\r\nprint(\"---------------------------\")\r\nprint(\"---------------------------\")\r\n\r\nfruits = [\"apple\", \"orange\", \"banana\", \"coconut\"]\r\nfruits = [fruit.upper() for fruit in fruits]\r\n# fruits = [fruit.upper() for fruit in [\"apple\", \"orange\", \"banana\", \"coconut\"] ]\r\nprint(fruits)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/list_comprehension.py b/list_comprehension.py
+--- a/list_comprehension.py	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
++++ b/list_comprehension.py	(date 1754387205201)
+@@ -28,4 +28,26 @@
+ fruits = ["apple", "orange", "banana", "coconut"]
+ fruits = [fruit.upper() for fruit in fruits]
+ # fruits = [fruit.upper() for fruit in ["apple", "orange", "banana", "coconut"] ]
+-print(fruits)
+\ No newline at end of file
++print(fruits)
++
++
++print("---------------------------")
++print("---------------------------")
++
++
++numbers = [1, -1, 3, -4, 5, -6, 8, 10, -12, -16, 7, 9]
++positive_nums = [num for num in numbers if num >= 0]
++negative_nums = [num for num in numbers if num <  0]
++even_nums = [num for num in numbers if num % 2 == 0]
++odd_nums = [num for  num in numbers if num % 2 == 1]
++
++print(positive_nums)
++print(negative_nums)
++print(even_nums)
++print(odd_nums)
++
++print("------------------------------")
++
++grades = [85, 42, 79, 90, 56, 61, 30]
++
++passing_grades = [grade for grade in grades]
+\ No newline at end of file
+Index: test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Hello, Python is working!\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.py b/test.py
+--- a/test.py	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
++++ b/test.py	(date 1754382914306)
+@@ -1,1 +1,0 @@
+-print("Hello, Python is working!")
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m___Changes_1.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m___Changes_1.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m___Changes_1.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m___Changes_1.xml	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
++++ /dev/null	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1" date="1753885470021" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2025-07-30 7:54 p.m. [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-30_7_54_p_m__[Changes]1/shelved.patch	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
++++ /dev/null	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
+@@ -1,84 +0,0 @@
+-Index: dictionary.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+># dictionary = a collection of {key:value} pairs\r\n#              ordered and changeable. No duplicates\r\n\r\ncapitals = {\"USA\": \"Washington D.C\",\r\n            \"India\": \"New Delhi\",\r\n            \"Sri Lanka\": \"Colombo\",\r\n            \"China\": \"Beiging\",\r\n            \"Russia\": \"Moscow\"}\r\n\r\n#print(dir(capitals))\r\n#print(help(capitals))\r\n\r\nprint(capitals.get(\"India\"))\r\nprint(capitals.get(\"Sri Lanka\"))\r\n
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/dictionary.py b/dictionary.py
+---- a/dictionary.py	(revision 4e1e1ba0ad7d56867a3cad1f880791749ae49792)
+-+++ b/dictionary.py	(date 1753803224693)
+-@@ -12,3 +12,61 @@
+- 
+- print(capitals.get("India"))
+- print(capitals.get("Sri Lanka"))
+-+
+-+print("---------------------------")
+-+
+-+if capitals.get("Japan"):
+-+    print("That capital exists")
+-+else:
+-+    print("That capital doesn't exists")
+-+
+-+print("--------------------------")
+-+
+-+capitals.update({"Germany": "Berlin"})
+-+capitals.update({"USA": "Detroit"})         #Can update existing also
+-+print(capitals)
+-+
+-+print("--------------------------")
+-+
+-+capitals.pop("China")
+-+
+-+print(capitals)
+-+print("--------------------------")
+-+
+-+capitals.popitem()              #Removes the last / latest key & value
+-+print(capitals)
+-+
+-+print("--------------------------")
+-+
+-+keys = capitals.keys()           #Shows only the key values
+-+print(keys)
+-+
+-+print("--------------------------")
+-+
+-+for key in capitals.keys():
+-+    print(key)
+-+
+-+print("--------------------------")
+-+
+-+values = capitals.values()
+-+print(values)
+-+
+-+for value in capitals.values():
+-+    print(value)
+-+
+-+print("--------------------------")
+-+
+-+items = capitals.items()
+-+
+-+print(items)
+-+print("--------------")
+-+for key, value in capitals.items():
+-+    print(f"{key}: {value}")
+-+print("--------------------------")
+-+print("--------------------------")
+-+
+-+capitals.clear()                #Clear all the values & keys
+-+print(capitals)
+-+
+-+print("--------------------------")
+-+
+-Index: cosession_stand_program.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/cosession_stand_program.py b/cosession_stand_program.py
+-new file mode 100644
+---- /dev/null	(date 1753803523824)
+-+++ b/cosession_stand_program.py	(date 1753803523824)
+-@@ -0,0 +1,2 @@
+-+# Concession stand program
+-+
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"updated\">\r\n      <change afterPath=\"$PROJECT_DIR$/iterables.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/list_comprehension.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/membership_operators.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {}\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,\r\n    &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"30Ed4hdFS7XmU3TL7XjEDeII2DI\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.2D_collection.executor\": \"Run\",\r\n    \"Python.args_&_kwargs.executor\": \"Run\",\r\n    \"Python.calculater.executor\": \"Run\",\r\n    \"Python.compound_interest_calculator.executor\": \"Run\",\r\n    \"Python.cosession_stand_program.executor\": \"Run\",\r\n    \"Python.countdown_timer.executor\": \"Run\",\r\n    \"Python.default_arguments.executor\": \"Run\",\r\n    \"Python.dice_roller_program.executor\": \"Run\",\r\n    \"Python.dictionary.executor\": \"Run\",\r\n    \"Python.for_loop.executor\": \"Run\",\r\n    \"Python.function_return.executor\": \"Run\",\r\n    \"Python.functions.executor\": \"Run\",\r\n    \"Python.iterables.executor\": \"Run\",\r\n    \"Python.keywords.executor\": \"Run\",\r\n    \"Python.list_comprehension.executor\": \"Run\",\r\n    \"Python.lists.executor\": \"Run\",\r\n    \"Python.lists_sets_and_tuples.executor\": \"Run\",\r\n    \"Python.membership_operators.executor\": \"Run\",\r\n    \"Python.nested_loop.executor\": \"Run\",\r\n    \"Python.num_pad.executor\": \"Run\",\r\n    \"Python.number_guessing_game.executor\": \"Run\",\r\n    \"Python.quiz_game.executor\": \"Run\",\r\n    \"Python.random_numbers.executor\": \"Run\",\r\n    \"Python.rock_paper_scissors.executor\": \"Run\",\r\n    \"Python.sets.executor\": \"Run\",\r\n    \"Python.shopping_card_program.executor\": \"Run\",\r\n    \"Python.test.executor\": \"Run\",\r\n    \"Python.tuples.executor\": \"Run\",\r\n    \"Python.while_loop.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"\" />\r\n      <created>1753196477980</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1753196477980</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753206377797</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753206377797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753371329772</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753371329772</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438622226</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438622226</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438644973</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438644973</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438723845</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438723845</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753885631366</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753885631366</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"updated\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updated\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4f65f050a1ba5f6d07716d057d350ef671da351d)
++++ b/.idea/workspace.xml	(date 1754382914714)
+@@ -5,10 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
+-      <change afterPath="$PROJECT_DIR$/iterables.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/membership_operators.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -45,45 +44,45 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.2D_collection.executor": "Run",
+-    "Python.args_&_kwargs.executor": "Run",
+-    "Python.calculater.executor": "Run",
+-    "Python.compound_interest_calculator.executor": "Run",
+-    "Python.cosession_stand_program.executor": "Run",
+-    "Python.countdown_timer.executor": "Run",
+-    "Python.default_arguments.executor": "Run",
+-    "Python.dice_roller_program.executor": "Run",
+-    "Python.dictionary.executor": "Run",
+-    "Python.for_loop.executor": "Run",
+-    "Python.function_return.executor": "Run",
+-    "Python.functions.executor": "Run",
+-    "Python.iterables.executor": "Run",
+-    "Python.keywords.executor": "Run",
+-    "Python.list_comprehension.executor": "Run",
+-    "Python.lists.executor": "Run",
+-    "Python.lists_sets_and_tuples.executor": "Run",
+-    "Python.membership_operators.executor": "Run",
+-    "Python.nested_loop.executor": "Run",
+-    "Python.num_pad.executor": "Run",
+-    "Python.number_guessing_game.executor": "Run",
+-    "Python.quiz_game.executor": "Run",
+-    "Python.random_numbers.executor": "Run",
+-    "Python.rock_paper_scissors.executor": "Run",
+-    "Python.sets.executor": "Run",
+-    "Python.shopping_card_program.executor": "Run",
+-    "Python.test.executor": "Run",
+-    "Python.tuples.executor": "Run",
+-    "Python.while_loop.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.2D_collection.executor&quot;: &quot;Run&quot;,
++    &quot;Python.args_&amp;_kwargs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.calculater.executor&quot;: &quot;Run&quot;,
++    &quot;Python.compound_interest_calculator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.cosession_stand_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.countdown_timer.executor&quot;: &quot;Run&quot;,
++    &quot;Python.default_arguments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.dice_roller_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
++    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
++    &quot;Python.function_return.executor&quot;: &quot;Run&quot;,
++    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
++    &quot;Python.iterables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
++    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lists_sets_and_tuples.executor&quot;: &quot;Run&quot;,
++    &quot;Python.membership_operators.executor&quot;: &quot;Run&quot;,
++    &quot;Python.nested_loop.executor&quot;: &quot;Run&quot;,
++    &quot;Python.num_pad.executor&quot;: &quot;Run&quot;,
++    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
++    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
++    &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
++    &quot;Python.shopping_card_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.test.executor&quot;: &quot;Run&quot;,
++    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
++    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>

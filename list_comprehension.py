@@ -29,6 +29,28 @@ fruits = [fruit.upper() for fruit in fruits]
 # fruits = [fruit.upper() for fruit in ["apple", "orange", "banana", "coconut"] ]
 print(fruits)
 
+
+print("---------------------------")
+print("---------------------------")
+
+
+numbers = [1, -1, 3, -4, 5, -6, 8, 10, -12, -16, 7, 9]
+positive_nums = [num for num in numbers if num >= 0]
+negative_nums = [num for num in numbers if num <  0]
+even_nums = [num for num in numbers if num % 2 == 0]
+odd_nums = [num for  num in numbers if num % 2 == 1]
+
+print(positive_nums)
+print(negative_nums)
+print(even_nums)
+print(odd_nums)
+
+print("------------------------------")
+
+grades = [85, 42, 79, 90, 56, 61, 30]
+
+passing_grades = [grade for grade in grades]
+
 print("---------------------------")
 
 grades = [85, 42, 79, 90, 56, 61, 30]
