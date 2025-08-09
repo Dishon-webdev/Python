@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated" />
+    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/encryption_program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-31_8_08_p_m__[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-07-31_8_08_p_m___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slot_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/slot_machine.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +29,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dishon-webdev/Python.git",
-    "accountId": "3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,
+    &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="ProjectErrors" />
@@ -53,6 +59,7 @@
     "Python.default_arguments.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.encryption_program.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.function_return.executor": "Run",
     "Python.functions.executor": "Run",
