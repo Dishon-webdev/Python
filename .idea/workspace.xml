@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/object_oriented_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-08-2025_11_54_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-08-2025_11_54__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     "Python.banking_program.executor": "Run",
     "Python.calculater.executor": "Run",
     "Python.car.executor": "Run",
+    "Python.class_variables.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
     "Python.cosession_stand_program.executor": "Run",
     "Python.countdown_timer.executor": "Run",
@@ -198,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754842483454</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated">
+      <option name="closed" value="true" />
+      <created>1755019878299</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755019878299</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
