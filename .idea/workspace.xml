@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated" />
+    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/duck_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super().py" beforeDir="false" afterPath="$PROJECT_DIR$/super().py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +38,7 @@
 }</component>
   <component name="ProblemsViewState">
     <option name="autoscrollToSource" value="true" />
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -56,6 +62,7 @@
     "Python.default_arguments.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
     "Python.dictionary.executor": "Run",
+    "Python.duck_typing.executor": "Run",
     "Python.encryption_program.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.function_return.executor": "Run",
@@ -76,6 +83,7 @@
     "Python.num_pad.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
     "Python.object_oriented_programming.executor": "Run",
+    "Python.polymorphism.executor": "Run",
     "Python.quiz_game.executor": "Run",
     "Python.random_numbers.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
@@ -83,6 +91,7 @@
     "Python.sets.executor": "Run",
     "Python.shopping_card_program.executor": "Run",
     "Python.slot_machine.executor": "Run",
+    "Python.static_methods.executor": "Run",
     "Python.super().executor": "Run",
     "Python.test.executor": "Run",
     "Python.tuples.executor": "Run",
