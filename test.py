@@ -1,75 +1,29 @@
-# Simple Python Calculator
+menu = {"Popcorn": 250.00,
+    "Large Popcorn": 700.00,
+    "Soda": 300.00,
+    "Large Soda": 450.00,
+    "Candy": 250.00,
+    "Chocolate": 330.00,
+    "Nachos": 450.00,
+    "Hotdog": 400.00,
+    "Pretzel": 340.00,
+    "Ice Cream": 240.00}
 
-def add(x, y):
-    return x + y
+cart = []
+total = 0
 
+print("------------------- MENU -------------------")
+for key, value in menu.items():
+    print(f"{key:20}: Rs {value:.2f}")
+print("--------------------------------------------")
 
-def subtract(x, y):
-    return x - y
+while True:
+    food = input("Select an item (q to quit): ").lower()
+    if food == "q":
+        break
+    elif menu.get(food) is not None:
+        cart.append(food)
 
-
-def multiply(x, y):
-    return x * y
-
-
-def divide(x, y):
-    if y == 0:
-        return "Error: Cannot divide by zero!"
-    return x / y
-
-
-def calculator():
-    print("=== Simple Calculator ===")
-    print("Operations:")
-    print("1. Add (+)")
-    print("2. Subtract (-)")
-    print("3. Multiply (*)")
-    print("4. Divide (/)")
-    print("5. Quit")
-
-    while True:
-        # Get user choice
-        choice = input("\nEnter your choice (1-5): ")
-
-        # Check if user wants to quit
-        if choice == '5':
-            print("Thanks for using the calculator!")
-            break
-
-        # Check if choice is valid
-        if choice not in ['1', '2', '3', '4']:
-            print("Invalid choice! Please enter 1, 2, 3, 4, or 5.")
-            continue
-
-        # Get numbers from user
-        try:
-            num1 = float(input("Enter first number: "))
-            num2 = float(input("Enter second number: "))
-        except ValueError:
-            print("Please enter valid numbers!")
-            continue
-
-        # Perform calculation based on choice
-        if choice == '1':
-            result = add(num1, num2)
-            print(f"{num1} + {num2} = {result}")
-
-        elif choice == '2':
-            result = subtract(num1, num2)
-            print(f"{num1} - {num2} = {result}")
-
-        elif choice == '3':
-            result = multiply(num1, num2)
-            print(f"{num1} * {num2} = {result}")
-
-        elif choice == '4':
-            result = divide(num1, num2)
-            if isinstance(result, str):  # Check if it's an error message
-                print(result)
-            else:
-                print(f"{num1} / {num2} = {result}")
-
-
-# Run the calculator
-if __name__ == "__main__":
-    calculator()
+for food in cart:
+    total += menu.get(food)
+    print(food, end=" ")
