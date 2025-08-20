@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/duck_typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magic_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-08-2025_14_27_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-08-2025_14_27__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super().py" beforeDir="false" afterPath="$PROJECT_DIR$/super().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +31,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,
-    &quot;accountId&quot;: &quot;62255344-7e5d-4476-a1bc-27782eba52d8&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dishon-webdev/Python.git",
+    "accountId": "3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
@@ -55,6 +56,7 @@
     "Python.banking_program.executor": "Run",
     "Python.calculater.executor": "Run",
     "Python.car.executor": "Run",
+    "Python.class_methods.executor": "Run",
     "Python.class_variables.executor": "Run",
     "Python.compound_interest_calculator.executor": "Run",
     "Python.cosession_stand_program.executor": "Run",
@@ -74,6 +76,7 @@
     "Python.list_comprehension.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.lists_sets_and_tuples.executor": "Run",
+    "Python.magic_methods.executor": "Run",
     "Python.match_case_statements.executor": "Run",
     "Python.membership_operators.executor": "Run",
     "Python.module2.executor": "Run",
