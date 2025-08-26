@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/@property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stuff/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reading_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writing_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2025_13_48_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2025_13_48__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +70,7 @@
     "Python.exception_handling.executor": "Run",
     "Python.file_detection.executor": "Run",
     "Python.for_loop.executor": "Run",
+    "Python.format_specifiers.executor": "Run",
     "Python.function_return.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.hangman_game.executor": "Run",
@@ -93,6 +93,7 @@
     "Python.polymorphism.executor": "Run",
     "Python.quiz_game.executor": "Run",
     "Python.random_numbers.executor": "Run",
+    "Python.reading_files.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.scope_resolution.executor": "Run",
     "Python.sets.executor": "Run",
@@ -103,6 +104,7 @@
     "Python.test.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.while_loop.executor": "Run",
+    "Python.writing_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
