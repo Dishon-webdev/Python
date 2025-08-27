@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/reading_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writing_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2025_13_48_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19-08-2025_13_48__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlarmClock.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5_GUI_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5_labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alarm_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cyber-criminal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dates_&amp;_times.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_API_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m__[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m___Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +58,11 @@
   "keyToString": {
     "Python.2D_collection.executor": "Run",
     "Python.@property.executor": "Run",
+    "Python.PyQt5_GUI_intro.executor": "Run",
+    "Python.PyQt5_labels.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.alarmClock.executor": "Run",
+    "Python.alarm_clock.executor": "Run",
     "Python.args_&_kwargs.executor": "Run",
     "Python.banking_program.executor": "Run",
     "Python.calculater.executor": "Run",
@@ -61,6 +72,7 @@
     "Python.compound_interest_calculator.executor": "Run",
     "Python.cosession_stand_program.executor": "Run",
     "Python.countdown_timer.executor": "Run",
+    "Python.dates_&_times.executor": "Run",
     "Python.decorators.executor": "Run",
     "Python.default_arguments.executor": "Run",
     "Python.dice_roller_program.executor": "Run",
@@ -86,6 +98,7 @@
     "Python.module2.executor": "Run",
     "Python.modules.executor": "Run",
     "Python.multiple_inheritance.executor": "Run",
+    "Python.multithreading.executor": "Run",
     "Python.nested_loop.executor": "Run",
     "Python.num_pad.executor": "Run",
     "Python.number_guessing_game.executor": "Run",
@@ -94,6 +107,7 @@
     "Python.quiz_game.executor": "Run",
     "Python.random_numbers.executor": "Run",
     "Python.reading_files.executor": "Run",
+    "Python.request_API_data.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.scope_resolution.executor": "Run",
     "Python.sets.executor": "Run",
@@ -106,6 +120,7 @@
     "Python.while_loop.executor": "Run",
     "Python.writing_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -115,6 +130,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL USER\Desktop\Python" />
       <recent name="C:\Users\User\PycharmProjects\Python\stuff" />
     </key>
   </component>
@@ -237,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755602474347</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updated">
+      <option name="closed" value="true" />
+      <created>1756207148475</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756207148475</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
