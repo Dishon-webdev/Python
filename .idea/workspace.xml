@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/AlarmClock.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5_GUI_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5_labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alarm_clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cyber-criminal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dates_&amp;_times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request_API_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m__[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m___Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5_layout_managers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +31,13 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,
-    &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dishon-webdev/Python.git",
+    "accountId": "62255344-7e5d-4476-a1bc-27782eba52d8"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
-    <option name="autoscrollToSource" value="true" />
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
@@ -59,7 +53,10 @@
     "Python.2D_collection.executor": "Run",
     "Python.@property.executor": "Run",
     "Python.PyQt5_GUI_intro.executor": "Run",
+    "Python.PyQt5_buttons.executor": "Run",
+    "Python.PyQt5_images.executor": "Run",
     "Python.PyQt5_labels.executor": "Run",
+    "Python.PyQt5_layout_managers.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.alarmClock.executor": "Run",
     "Python.alarm_clock.executor": "Run",
@@ -130,6 +127,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python" />
       <recent name="C:\Users\DELL USER\Desktop\Python" />
       <recent name="C:\Users\User\PycharmProjects\Python\stuff" />
     </key>
