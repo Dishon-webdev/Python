@@ -1,0 +1,369 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml	(revision 1dcb31c46ecbda9789c6424d45e50dd1fc7ac412)
++++ /dev/null	(revision 1dcb31c46ecbda9789c6424d45e50dd1fc7ac412)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]" date="1755662698822" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 20-08-2025 09:34 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch	(revision 1dcb31c46ecbda9789c6424d45e50dd1fc7ac412)
++++ /dev/null	(revision 1dcb31c46ecbda9789c6424d45e50dd1fc7ac412)
+@@ -1,150 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"updated\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Unit Test\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {}\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,\r\n    &quot;accountId&quot;: &quot;62255344-7e5d-4476-a1bc-27782eba52d8&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"selectedTabId\" value=\"ProjectErrors\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"30Ed4hdFS7XmU3TL7XjEDeII2DI\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.2D_collection.executor\": \"Run\",\r\n    \"Python.args_&_kwargs.executor\": \"Run\",\r\n    \"Python.banking_program.executor\": \"Run\",\r\n    \"Python.calculater.executor\": \"Run\",\r\n    \"Python.car.executor\": \"Run\",\r\n    \"Python.class_variables.executor\": \"Run\",\r\n    \"Python.compound_interest_calculator.executor\": \"Run\",\r\n    \"Python.cosession_stand_program.executor\": \"Run\",\r\n    \"Python.countdown_timer.executor\": \"Run\",\r\n    \"Python.default_arguments.executor\": \"Run\",\r\n    \"Python.dice_roller_program.executor\": \"Run\",\r\n    \"Python.dictionary.executor\": \"Run\",\r\n    \"Python.encryption_program.executor\": \"Run\",\r\n    \"Python.for_loop.executor\": \"Run\",\r\n    \"Python.function_return.executor\": \"Run\",\r\n    \"Python.functions.executor\": \"Run\",\r\n    \"Python.hangman_game.executor\": \"Run\",\r\n    \"Python.inheritance.executor\": \"Run\",\r\n    \"Python.iterables.executor\": \"Run\",\r\n    \"Python.keywords.executor\": \"Run\",\r\n    \"Python.list_comprehension.executor\": \"Run\",\r\n    \"Python.lists.executor\": \"Run\",\r\n    \"Python.lists_sets_and_tuples.executor\": \"Run\",\r\n    \"Python.match_case_statements.executor\": \"Run\",\r\n    \"Python.membership_operators.executor\": \"Run\",\r\n    \"Python.module2.executor\": \"Run\",\r\n    \"Python.modules.executor\": \"Run\",\r\n    \"Python.multiple_inheritance.executor\": \"Run\",\r\n    \"Python.nested_loop.executor\": \"Run\",\r\n    \"Python.num_pad.executor\": \"Run\",\r\n    \"Python.number_guessing_game.executor\": \"Run\",\r\n    \"Python.object_oriented_programming.executor\": \"Run\",\r\n    \"Python.quiz_game.executor\": \"Run\",\r\n    \"Python.random_numbers.executor\": \"Run\",\r\n    \"Python.rock_paper_scissors.executor\": \"Run\",\r\n    \"Python.scope_resolution.executor\": \"Run\",\r\n    \"Python.sets.executor\": \"Run\",\r\n    \"Python.shopping_card_program.executor\": \"Run\",\r\n    \"Python.slot_machine.executor\": \"Run\",\r\n    \"Python.super().executor\": \"Run\",\r\n    \"Python.test.executor\": \"Run\",\r\n    \"Python.tuples.executor\": \"Run\",\r\n    \"Python.while_loop.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"reference.settingsdialog.IDE.editor.colors.Console Colors\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"\" />\r\n      <created>1753196477980</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1753196477980</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753206377797</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753206377797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753371329772</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753371329772</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438622226</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438622226</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438644973</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438644973</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438723845</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438723845</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753885631366</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753885631366</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753982661460</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753982661460</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754413057176</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754413057176</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754564945293</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754564945293</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754758475624</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754758475624</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754842483454</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754842483454</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1755019878299</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1755019878299</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1755602474347</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1755602474347</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"14\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"updated\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updated\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 4aeaf6a085324b2a4ad0c77b756dd29cb5c0e1e5)
+-+++ b/.idea/workspace.xml	(date 1755662683567)
+-@@ -4,7 +4,9 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated" />
+-+    <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -42,59 +44,59 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "Python.2D_collection.executor": "Run",
+--    "Python.args_&_kwargs.executor": "Run",
+--    "Python.banking_program.executor": "Run",
+--    "Python.calculater.executor": "Run",
+--    "Python.car.executor": "Run",
+--    "Python.class_variables.executor": "Run",
+--    "Python.compound_interest_calculator.executor": "Run",
+--    "Python.cosession_stand_program.executor": "Run",
+--    "Python.countdown_timer.executor": "Run",
+--    "Python.default_arguments.executor": "Run",
+--    "Python.dice_roller_program.executor": "Run",
+--    "Python.dictionary.executor": "Run",
+--    "Python.encryption_program.executor": "Run",
+--    "Python.for_loop.executor": "Run",
+--    "Python.function_return.executor": "Run",
+--    "Python.functions.executor": "Run",
+--    "Python.hangman_game.executor": "Run",
+--    "Python.inheritance.executor": "Run",
+--    "Python.iterables.executor": "Run",
+--    "Python.keywords.executor": "Run",
+--    "Python.list_comprehension.executor": "Run",
+--    "Python.lists.executor": "Run",
+--    "Python.lists_sets_and_tuples.executor": "Run",
+--    "Python.match_case_statements.executor": "Run",
+--    "Python.membership_operators.executor": "Run",
+--    "Python.module2.executor": "Run",
+--    "Python.modules.executor": "Run",
+--    "Python.multiple_inheritance.executor": "Run",
+--    "Python.nested_loop.executor": "Run",
+--    "Python.num_pad.executor": "Run",
+--    "Python.number_guessing_game.executor": "Run",
+--    "Python.object_oriented_programming.executor": "Run",
+--    "Python.quiz_game.executor": "Run",
+--    "Python.random_numbers.executor": "Run",
+--    "Python.rock_paper_scissors.executor": "Run",
+--    "Python.scope_resolution.executor": "Run",
+--    "Python.sets.executor": "Run",
+--    "Python.shopping_card_program.executor": "Run",
+--    "Python.slot_machine.executor": "Run",
+--    "Python.super().executor": "Run",
+--    "Python.test.executor": "Run",
+--    "Python.tuples.executor": "Run",
+--    "Python.while_loop.executor": "Run",
+--    "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "RunOnceActivity.git.unshallow": "true",
+--    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+--    "git-widget-placeholder": "main",
+--    "ignore.virus.scanning.warn.message": "true",
+--    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;Python.2D_collection.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.args_&amp;_kwargs.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.banking_program.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.calculater.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.class_variables.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.compound_interest_calculator.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.cosession_stand_program.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.countdown_timer.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.default_arguments.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.dice_roller_program.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.encryption_program.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.function_return.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.iterables.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.lists_sets_and_tuples.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.match_case_statements.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.membership_operators.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.nested_loop.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.num_pad.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.object_oriented_programming.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.scope_resolution.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.shopping_card_program.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.slot_machine.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.super().executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
+-+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+-+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+-   }
+--}]]></component>
+-+}</component>
+-   <component name="SharedIndexes">
+-     <attachedChunks>
+-       <set>
+-@@ -214,7 +216,15 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1755602474347</updated>
+-     </task>
+--    <option name="localTasksCounter" value="14" />
+-+    <task id="LOCAL-00014" summary="updated">
+-+      <option name="closed" value="true" />
+-+      <created>1755602492683</created>
+-+      <option name="number" value="00014" />
+-+      <option name="presentableId" value="LOCAL-00014" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1755602492683</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="15" />
+-     <servers />
+-   </component>
+-   <component name="Vcs.Log.Tabs.Properties">
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"updated\">\r\n      <change afterPath=\"$PROJECT_DIR$/AlarmClock.mp3\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/PyQt5_GUI_intro.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/PyQt5_labels.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/alarm_clock.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/cyber-criminal.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/dates_&amp;_times.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/multithreading.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/request_API_data.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m__[Changes]/shelved.patch\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m___Changes_.xml\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Unit Test\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {}\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Dishon-webdev/Python.git&quot;,\r\n    &quot;accountId&quot;: &quot;3af21aa0-c9e5-46f6-b2e6-6c60276a2ca2&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"30Ed4hdFS7XmU3TL7XjEDeII2DI\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.2D_collection.executor\": \"Run\",\r\n    \"Python.@property.executor\": \"Run\",\r\n    \"Python.PyQt5_GUI_intro.executor\": \"Run\",\r\n    \"Python.PyQt5_labels.executor\": \"Run\",\r\n    \"Python.__init__.executor\": \"Run\",\r\n    \"Python.alarmClock.executor\": \"Run\",\r\n    \"Python.alarm_clock.executor\": \"Run\",\r\n    \"Python.args_&_kwargs.executor\": \"Run\",\r\n    \"Python.banking_program.executor\": \"Run\",\r\n    \"Python.calculater.executor\": \"Run\",\r\n    \"Python.car.executor\": \"Run\",\r\n    \"Python.class_methods.executor\": \"Run\",\r\n    \"Python.class_variables.executor\": \"Run\",\r\n    \"Python.compound_interest_calculator.executor\": \"Run\",\r\n    \"Python.cosession_stand_program.executor\": \"Run\",\r\n    \"Python.countdown_timer.executor\": \"Run\",\r\n    \"Python.dates_&_times.executor\": \"Run\",\r\n    \"Python.decorators.executor\": \"Run\",\r\n    \"Python.default_arguments.executor\": \"Run\",\r\n    \"Python.dice_roller_program.executor\": \"Run\",\r\n    \"Python.dictionary.executor\": \"Run\",\r\n    \"Python.duck_typing.executor\": \"Run\",\r\n    \"Python.encryption_program.executor\": \"Run\",\r\n    \"Python.exception_handling.executor\": \"Run\",\r\n    \"Python.file_detection.executor\": \"Run\",\r\n    \"Python.for_loop.executor\": \"Run\",\r\n    \"Python.format_specifiers.executor\": \"Run\",\r\n    \"Python.function_return.executor\": \"Run\",\r\n    \"Python.functions.executor\": \"Run\",\r\n    \"Python.hangman_game.executor\": \"Run\",\r\n    \"Python.inheritance.executor\": \"Run\",\r\n    \"Python.iterables.executor\": \"Run\",\r\n    \"Python.keywords.executor\": \"Run\",\r\n    \"Python.list_comprehension.executor\": \"Run\",\r\n    \"Python.lists.executor\": \"Run\",\r\n    \"Python.lists_sets_and_tuples.executor\": \"Run\",\r\n    \"Python.magic_methods.executor\": \"Run\",\r\n    \"Python.match_case_statements.executor\": \"Run\",\r\n    \"Python.membership_operators.executor\": \"Run\",\r\n    \"Python.module2.executor\": \"Run\",\r\n    \"Python.modules.executor\": \"Run\",\r\n    \"Python.multiple_inheritance.executor\": \"Run\",\r\n    \"Python.multithreading.executor\": \"Run\",\r\n    \"Python.nested_loop.executor\": \"Run\",\r\n    \"Python.num_pad.executor\": \"Run\",\r\n    \"Python.number_guessing_game.executor\": \"Run\",\r\n    \"Python.object_oriented_programming.executor\": \"Run\",\r\n    \"Python.polymorphism.executor\": \"Run\",\r\n    \"Python.quiz_game.executor\": \"Run\",\r\n    \"Python.random_numbers.executor\": \"Run\",\r\n    \"Python.reading_files.executor\": \"Run\",\r\n    \"Python.request_API_data.executor\": \"Run\",\r\n    \"Python.rock_paper_scissors.executor\": \"Run\",\r\n    \"Python.scope_resolution.executor\": \"Run\",\r\n    \"Python.sets.executor\": \"Run\",\r\n    \"Python.shopping_card_program.executor\": \"Run\",\r\n    \"Python.slot_machine.executor\": \"Run\",\r\n    \"Python.static_methods.executor\": \"Run\",\r\n    \"Python.super().executor\": \"Run\",\r\n    \"Python.test.executor\": \"Run\",\r\n    \"Python.tuples.executor\": \"Run\",\r\n    \"Python.while_loop.executor\": \"Run\",\r\n    \"Python.writing_files.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"settings.editor.selected.configurable\": \"reference.settingsdialog.IDE.editor.colors.Console Colors\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\DELL USER\\Desktop\\Python\" />\r\n      <recent name=\"C:\\Users\\User\\PycharmProjects\\Python\\stuff\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"223ab197-30df-4f0b-ab39-b316d790550a\" name=\"Changes\" comment=\"\" />\r\n      <created>1753196477980</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1753196477980</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753206377797</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753206377797</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753371329772</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753371329772</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438622226</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438622226</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438644973</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438644973</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753438723845</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753438723845</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753885631366</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753885631366</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753982661460</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753982661460</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754413057176</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754413057176</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754564945293</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754564945293</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754758475624</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754758475624</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1754842483454</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1754842483454</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1755019878299</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1755019878299</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1755602474347</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1755602474347</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1756207148475</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1756207148475</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"15\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"updated\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"updated\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1dcb31c46ecbda9789c6424d45e50dd1fc7ac412)
++++ b/.idea/workspace.xml	(date 1756370700043)
+@@ -5,16 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="223ab197-30df-4f0b-ab39-b316d790550a" name="Changes" comment="updated">
+-      <change afterPath="$PROJECT_DIR$/AlarmClock.mp3" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/PyQt5_GUI_intro.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/PyQt5_labels.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/alarm_clock.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/cyber-criminal.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/dates_&amp;_times.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/multithreading.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/request_API_data.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m__[Changes]/shelved.patch" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025-08-19_9_05_p_m___Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20-08-2025_09_34__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -54,80 +46,80 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Python.2D_collection.executor": "Run",
+-    "Python.@property.executor": "Run",
+-    "Python.PyQt5_GUI_intro.executor": "Run",
+-    "Python.PyQt5_labels.executor": "Run",
+-    "Python.__init__.executor": "Run",
+-    "Python.alarmClock.executor": "Run",
+-    "Python.alarm_clock.executor": "Run",
+-    "Python.args_&_kwargs.executor": "Run",
+-    "Python.banking_program.executor": "Run",
+-    "Python.calculater.executor": "Run",
+-    "Python.car.executor": "Run",
+-    "Python.class_methods.executor": "Run",
+-    "Python.class_variables.executor": "Run",
+-    "Python.compound_interest_calculator.executor": "Run",
+-    "Python.cosession_stand_program.executor": "Run",
+-    "Python.countdown_timer.executor": "Run",
+-    "Python.dates_&_times.executor": "Run",
+-    "Python.decorators.executor": "Run",
+-    "Python.default_arguments.executor": "Run",
+-    "Python.dice_roller_program.executor": "Run",
+-    "Python.dictionary.executor": "Run",
+-    "Python.duck_typing.executor": "Run",
+-    "Python.encryption_program.executor": "Run",
+-    "Python.exception_handling.executor": "Run",
+-    "Python.file_detection.executor": "Run",
+-    "Python.for_loop.executor": "Run",
+-    "Python.format_specifiers.executor": "Run",
+-    "Python.function_return.executor": "Run",
+-    "Python.functions.executor": "Run",
+-    "Python.hangman_game.executor": "Run",
+-    "Python.inheritance.executor": "Run",
+-    "Python.iterables.executor": "Run",
+-    "Python.keywords.executor": "Run",
+-    "Python.list_comprehension.executor": "Run",
+-    "Python.lists.executor": "Run",
+-    "Python.lists_sets_and_tuples.executor": "Run",
+-    "Python.magic_methods.executor": "Run",
+-    "Python.match_case_statements.executor": "Run",
+-    "Python.membership_operators.executor": "Run",
+-    "Python.module2.executor": "Run",
+-    "Python.modules.executor": "Run",
+-    "Python.multiple_inheritance.executor": "Run",
+-    "Python.multithreading.executor": "Run",
+-    "Python.nested_loop.executor": "Run",
+-    "Python.num_pad.executor": "Run",
+-    "Python.number_guessing_game.executor": "Run",
+-    "Python.object_oriented_programming.executor": "Run",
+-    "Python.polymorphism.executor": "Run",
+-    "Python.quiz_game.executor": "Run",
+-    "Python.random_numbers.executor": "Run",
+-    "Python.reading_files.executor": "Run",
+-    "Python.request_API_data.executor": "Run",
+-    "Python.rock_paper_scissors.executor": "Run",
+-    "Python.scope_resolution.executor": "Run",
+-    "Python.sets.executor": "Run",
+-    "Python.shopping_card_program.executor": "Run",
+-    "Python.slot_machine.executor": "Run",
+-    "Python.static_methods.executor": "Run",
+-    "Python.super().executor": "Run",
+-    "Python.test.executor": "Run",
+-    "Python.tuples.executor": "Run",
+-    "Python.while_loop.executor": "Run",
+-    "Python.writing_files.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Python.2D_collection.executor&quot;: &quot;Run&quot;,
++    &quot;Python.@property.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PyQt5_GUI_intro.executor&quot;: &quot;Run&quot;,
++    &quot;Python.PyQt5_labels.executor&quot;: &quot;Run&quot;,
++    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
++    &quot;Python.alarmClock.executor&quot;: &quot;Run&quot;,
++    &quot;Python.alarm_clock.executor&quot;: &quot;Run&quot;,
++    &quot;Python.args_&amp;_kwargs.executor&quot;: &quot;Run&quot;,
++    &quot;Python.banking_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.calculater.executor&quot;: &quot;Run&quot;,
++    &quot;Python.car.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_methods.executor&quot;: &quot;Run&quot;,
++    &quot;Python.class_variables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.compound_interest_calculator.executor&quot;: &quot;Run&quot;,
++    &quot;Python.cosession_stand_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.countdown_timer.executor&quot;: &quot;Run&quot;,
++    &quot;Python.dates_&amp;_times.executor&quot;: &quot;Run&quot;,
++    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
++    &quot;Python.default_arguments.executor&quot;: &quot;Run&quot;,
++    &quot;Python.dice_roller_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
++    &quot;Python.duck_typing.executor&quot;: &quot;Run&quot;,
++    &quot;Python.encryption_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.exception_handling.executor&quot;: &quot;Run&quot;,
++    &quot;Python.file_detection.executor&quot;: &quot;Run&quot;,
++    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
++    &quot;Python.format_specifiers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.function_return.executor&quot;: &quot;Run&quot;,
++    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
++    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
++    &quot;Python.inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.iterables.executor&quot;: &quot;Run&quot;,
++    &quot;Python.keywords.executor&quot;: &quot;Run&quot;,
++    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
++    &quot;Python.lists_sets_and_tuples.executor&quot;: &quot;Run&quot;,
++    &quot;Python.magic_methods.executor&quot;: &quot;Run&quot;,
++    &quot;Python.match_case_statements.executor&quot;: &quot;Run&quot;,
++    &quot;Python.membership_operators.executor&quot;: &quot;Run&quot;,
++    &quot;Python.module2.executor&quot;: &quot;Run&quot;,
++    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
++    &quot;Python.multithreading.executor&quot;: &quot;Run&quot;,
++    &quot;Python.nested_loop.executor&quot;: &quot;Run&quot;,
++    &quot;Python.num_pad.executor&quot;: &quot;Run&quot;,
++    &quot;Python.number_guessing_game.executor&quot;: &quot;Run&quot;,
++    &quot;Python.object_oriented_programming.executor&quot;: &quot;Run&quot;,
++    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
++    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
++    &quot;Python.random_numbers.executor&quot;: &quot;Run&quot;,
++    &quot;Python.reading_files.executor&quot;: &quot;Run&quot;,
++    &quot;Python.request_API_data.executor&quot;: &quot;Run&quot;,
++    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
++    &quot;Python.scope_resolution.executor&quot;: &quot;Run&quot;,
++    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
++    &quot;Python.shopping_card_program.executor&quot;: &quot;Run&quot;,
++    &quot;Python.slot_machine.executor&quot;: &quot;Run&quot;,
++    &quot;Python.static_methods.executor&quot;: &quot;Run&quot;,
++    &quot;Python.super().executor&quot;: &quot;Run&quot;,
++    &quot;Python.test.executor&quot;: &quot;Run&quot;,
++    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
++    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
++    &quot;Python.writing_files.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\Users\DELL USER\Desktop\Python" />
+@@ -261,7 +253,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1756207148475</updated>
+     </task>
+-    <option name="localTasksCounter" value="15" />
++    <task id="LOCAL-00015" summary="updated">
++      <option name="closed" value="true" />
++      <created>1756276946096</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1756276946096</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
